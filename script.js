@@ -9,10 +9,6 @@ const messages = [
     "A za jogurtową milke?",
     "Okej, czyli nie...",
     "NO ZGÓDŹ SIEEEEEEEE PROSZEEE"
-    "Teraz to juz...",
-    "Jestem smutny",
-    "Dzieki bardzo",
-    "..."
 ];
 
 let messageIndex = 0;
